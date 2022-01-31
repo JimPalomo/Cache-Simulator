@@ -14,9 +14,10 @@ The Cache Simulator is developed in Python. Four different cache configurations 
 - Two modes: Fast Mode (output only hit/miss results), Detailed Mode (output step-by-step cache attempt information and hit/miss results
 
 ### Example of Detailed Mode
-![alt text]()
-![alt text]()
-![alt text]()
+![alt text](https://github.com/JimPalomo/Cache-Simulator/blob/main/assets/sample-1.png)
+![alt text](https://github.com/JimPalomo/Cache-Simulator/blob/main/assets/sample-2.png)
+![alt text](https://github.com/JimPalomo/Cache-Simulator/blob/main/assets/sample-3.png)
+
 ### Example of Fast Mode
-![alt text]()
-![alt text]()
+![alt text](https://github.com/JimPalomo/Cache-Simulator/blob/main/assets/sample-4.png)
+![alt text](https://github.com/JimPalomo/Cache-Simulator/blob/main/assets/sample-5.png)
