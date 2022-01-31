@@ -20,4 +20,3 @@ The Cache Simulator is developed in Python. Four different cache configurations 
 
 ### Example of Fast Mode
 ![alt text](https://github.com/JimPalomo/Cache-Simulator/blob/main/assets/sample-4.png)
-![alt text](https://github.com/JimPalomo/Cache-Simulator/blob/main/assets/sample-5.png)
